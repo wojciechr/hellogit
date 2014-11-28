@@ -57,5 +57,11 @@
         <github>kbaranski</github>
         <group>KrZZIs3011Si</group>
     </student>
-
+     <student>
+        <firstname>Wojciech</firstname>
+        <lastname>Rokosz</lastname>
+        <email>wojciech.rokosz91@gmail.com</email>
+        <github>wojciechr</github>
+        <group>KrZZIs3011Si</group>
+    </student>
 </students>
